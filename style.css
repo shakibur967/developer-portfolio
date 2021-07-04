@@ -33,3 +33,31 @@ h1{font-size: 50px;
     background-repeat: no-repeat;
     background-position: right;
 }
+.developer{
+    box-shadow:10px 10px 30px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+
+}
+#fullstack{
+    border-left: 9px solid;
+    border-image: linear-gradient(blue, green);
+    border-image-slice: 1;
+    border-radius: 9px;
+}
+.Experiences-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#baby-developer{
+    border-left: 7px solid;
+    border-image: linear-gradient(yellow,orange);
+    border-image-slice: 1;
+    border-radius: 9px;
+}
+footer p{
+    text-align: center;
+}
