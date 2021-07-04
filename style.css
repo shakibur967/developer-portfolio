@@ -5,7 +5,7 @@ h1{font-size: 50px;
 }
 .orange-color{color: orange;
 }
-section{
+.flexable-containar{
     display: flex;
     margin-bottom: 130px;
 }
